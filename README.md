@@ -24,6 +24,6 @@ Bienvenue dans le repository dédié aux formations en ligne sur l'analyse de do
 
 10. **Analyse de Texte avec tm :** Explorez l'analyse de texte en utilisant le package tm.
 
-## Comment Utiliser Ce Repository
+## Comment Utiliser Ce Repository 📁
 
 Chaque module de formation est organisé dans un dossier distinct. Vous trouverez des scripts R Markdown, des jeux de données de démonstration et des résultats pour chaque leçon. Suivez le guide d'organisation pour une expérience d'apprentissage optimale.
